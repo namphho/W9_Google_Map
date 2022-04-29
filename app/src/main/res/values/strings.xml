@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">W9 Google Map</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="facebook_app_id">383542546274059</string>
+    <string name="fb_login_protocol_scheme">fb383542546274059</string>
+    <string name="facebook_client_token">4e18c76eef15cb48182e6b05678c8727</string>
+
+
+</resources>
